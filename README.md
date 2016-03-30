@@ -1,6 +1,7 @@
 ## DratBar
 
 A simple app bar for Windows.
+
 ---
 ###How to use
 
