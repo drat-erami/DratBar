@@ -3,7 +3,7 @@
 A simple app bar for Windows.
 
 ---
-###How to use
+### How to use
 
 There's not much to say; DratBar is easy to use, but here are some pointers.
 
@@ -15,9 +15,16 @@ There's not much to say; DratBar is easy to use, but here are some pointers.
     6. Right-click the icon in the system tray and click 'Hide' to hide DratBar, and click 'Show' to show it again.
 
 ---    
-###Adding apps from notification area icon
+### Adding apps from notification area icon
 
     1. Right-click the notification icon.
     2. Click 'Add app'.
     3. Navigate to the app you want to add.
     4. Click 'Open'.
+
+---
+
+### 28/09/2017 - Update Released - DratBar Version 1.1
+
+Refined code
+Added autoshow/hide feature
