@@ -27,4 +27,5 @@ There's not much to say; DratBar is easy to use, but here are some pointers.
 ### 28/09/2017 - Update Released - DratBar Version 1.1
 
 Refined code
+
 Added autoshow/hide feature
